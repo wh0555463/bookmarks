@@ -1,3 +1,8 @@
+---
+label: Cyber Security News
+layout: page
+order: 100
+---
 # ► Cyber Security News
 
 * ⭐ **[KrebsOnSecurity](https://krebsonsecurity.com/)**, [Bruce Schneier](https://www.schneier.com/), [Troy Hunt](https://www.troyhunt.com/), [Didier Stevens](https://blog.didierstevens.com/)- Industry Expert Blogs
