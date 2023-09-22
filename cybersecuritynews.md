@@ -1,6 +1,6 @@
 ---
 label: Cyber Security News
-layout: page
+layout: default
 order: 100
 ---
 # ► Cyber Security News
