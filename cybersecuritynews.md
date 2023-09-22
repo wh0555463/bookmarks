@@ -3,7 +3,9 @@ label: Cyber Security News
 layout: default
 order: 100
 ---
-# ► Cyber Security News
+# Cyber Security News
+
+[!badge variant="warning" text="Note"] Filtered for Cole
 
 * ⭐ **[KrebsOnSecurity](https://krebsonsecurity.com/)**, [Bruce Schneier](https://www.schneier.com/), [Troy Hunt](https://www.troyhunt.com/), [Didier Stevens](https://blog.didierstevens.com/)- Industry Expert Blogs
 * ⭐ **[The DFIR Report](https://thedfirreport.com/)**, [SANS Reading Room](https://www.sans.org/reading-room/popular/week), [SANS Internet Storm Center](https://isc.sans.edu/) - Community-Submitted Research
@@ -20,7 +22,7 @@ order: 100
 
 ***
 
-## ▷ Podcasts
+## Podcasts
 
 * ⭐ **[The Cyberwire](https://thecyberwire.com/)** - Daily Cybersecurity News. Very timely and informative. They recently added a new CISO Perspectives segment that will be useful to you.
 * ⭐ **[Darknet Diaries](https://darknetdiaries.com/)** - Narrative-based podcasts that spend a single or a few episodes to tell the stories about some of the most important or interesting hacks throughout history. Probably not as "useful" as some of the others, but interesting storytelling.
